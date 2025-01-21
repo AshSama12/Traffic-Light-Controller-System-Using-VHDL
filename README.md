@@ -43,3 +43,10 @@ This project implements a **Traffic Light Controller System** designed to manage
 
 - Quartus simulation tool installed on your machine.
 - Basic knowledge of VHDL and digital design concepts.
+
+## Colaborators
+-Lakshika Wijesundara
+-Vindya Lenawala
+-Shehani NIPUNIKA
+-Gayathri Samarakoon
+-Kasun Meegalla
