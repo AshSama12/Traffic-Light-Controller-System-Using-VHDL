@@ -1,0 +1,19 @@
+|Project_Traffic_Controller
+G_m << G_m.DB_MAX_OUTPUT_PORT_TYPE
+Y_m << Y_m.DB_MAX_OUTPUT_PORT_TYPE
+R_m << R_m.DB_MAX_OUTPUT_PORT_TYPE
+S_p << S_p.DB_MAX_OUTPUT_PORT_TYPE
+G_p << G_p.DB_MAX_OUTPUT_PORT_TYPE
+X => Selector2.IN3
+X => Selector0.IN3
+Y => next_state.DATAA
+Y => next_state.DATAA
+Y => process_2.IN1
+Y => next_state.DATAA
+Y => next_state.DATAA
+Z => next_state.OUTPUTSELECT
+Z => next_state.OUTPUTSELECT
+Z => next_state.S_1.DATAB
+Z => Selector0.IN1
+
+
